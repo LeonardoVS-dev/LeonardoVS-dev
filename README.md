@@ -1,5 +1,6 @@
 # Oooi 👋
-## Sou o Leonardo, e esse é o meu perfil no github!
+Sou o Leonardo, e esse é o meu perfil no github!
+Atualmente, estagio no Centro de Pesquisa Política e Social da Unesp - FCHS/Franca. Trabalho principalmente com Python, mas já tive experiência com outras linguagens, como Flutter e Dart.
 
 <!--
 **LeonardoVS-dev/LeonardoVS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
