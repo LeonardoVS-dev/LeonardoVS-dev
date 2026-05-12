@@ -1,9 +1,13 @@
-# Oooi 👋
+<h3 align="center">👋 Oooi </h3>
 ![cat_hey](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQwbmVvemM4aHpmMHcwMmZyaGU0Ymt0cjhzcGNyeWFtYjhpcWg5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif)
 <br>
 <br>
 **Sou o Leonardo, e esse é o meu perfil no github!**
 Atualmente, curso Direito na Unesp e estagio no Centro de Pesquisa Política e Social da Unesp - FCHS/Franca. Trabalho principalmente com Python, mas já tive experiência com outras linguagens, como Flutter e Dart.
+
+**🔭 Minhas redes:**
+![Linkedin](https://www.linkedin.com/in/leonardo-samogim)
+![Currículo Lattes](http://lattes.cnpq.br/9616946465582096)
 <!--
 **LeonardoVS-dev/LeonardoVS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
