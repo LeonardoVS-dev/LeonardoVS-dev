@@ -1,6 +1,6 @@
 # Oooi 👋
-![cat_hey](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQwbmVvemM4aHpmMHcwMmZyaGU0Ymt0cjhzcGNyeWFtYjhpcWg5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif)
-Sou o Leonardo, e esse é o meu perfil no github!
+<div align="center"> ![cat_hey](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQwbmVvemM4aHpmMHcwMmZyaGU0Ymt0cjhzcGNyeWFtYjhpcWg5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif) </div>
+**Sou o Leonardo, e esse é o meu perfil no github!**
 Atualmente, estagio no Centro de Pesquisa Política e Social da Unesp - FCHS/Franca. Trabalho principalmente com Python, mas já tive experiência com outras linguagens, como Flutter e Dart.
 
 <!--
