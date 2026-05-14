@@ -15,7 +15,5 @@ Me chamo Leonardo, e esse é o meu perfil no github! <br>Atualmente, curso Direi
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LeonardoVS-dev&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
