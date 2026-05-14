@@ -1,5 +1,5 @@
 ### 💫 Sobre mim:
-Me chamo Leonardo, e esse é o meu perfil no github! <br>Atualmente, curso Direito na Unesp e estagio no Centro de Pesquisa Política e Social da Unesp - FCHS/Franca. Trabalho principalmente com Python, mas já tive experiência com outras linguagens, como Flutter e Dart.<br>
+Me chamo Leonardo, e esse é o meu perfil no github! <br>Atualmente, curso Direito na Unesp e estagio no Centro de Pesquisa Política e Social da Unesp - FCHS/Franca. Trabalho principalmente com Python, mas já tive experiência com outras linguagens, como Dart e Java.<br>
 
 
 ### 🌐 Socials:
