@@ -1,5 +1,5 @@
 <h3 align="center">👋 Oooi </h3>
-![cat_hey](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQwbmVvemM4aHpmMHcwMmZyaGU0Ymt0cjhzcGNyeWFtYjhpcWg5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif)
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQwbmVvemM4aHpmMHcwMmZyaGU0Ymt0cjhzcGNyeWFtYjhpcWg5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif
 <br>
 <br>
 **Sou o Leonardo, e esse é o meu perfil no github!**
